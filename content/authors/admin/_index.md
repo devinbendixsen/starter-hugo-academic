@@ -6,7 +6,7 @@ title: Devin P Bendixsen
 superuser: true
 
 # Role/position/tagline
-role: Bioinformatician
+role: Staff Bioinformatician
 
 # Organizations/Affiliations to show in About widget
 organizations:
