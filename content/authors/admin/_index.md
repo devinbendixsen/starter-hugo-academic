@@ -72,8 +72,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently working as a Staff Bioinformatician in the Institute of Genetics and Cancer at the University of Edinburgh.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Previously I worked in the lab of Rike Stelkens (Stockholm University) on the evolutionary genomics of _Saccharomyces_ yeast hybrids. Before that I was a PhD student with Eric Hayden (Boise State University) studying the evolutionary implications of RNA fitness landscapes.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
